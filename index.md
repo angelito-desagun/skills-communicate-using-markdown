@@ -9,5 +9,6 @@ var myVar = "Strike Freedom Spec II & Mighty Strike Freedom";
 //Display the content of variable.
 Console.log(myVar);
 ```
-
-```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
